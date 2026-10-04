@@ -1,0 +1,3 @@
+﻿"Game","Opening","CandidateColor","Result","Reason","Plies","TimeMode","WhiteClockMs","BlackClockMs","CandidateThinkMs","BaselineThinkMs","Moves"
+"1","0","white","candidate","time","9","sudden","118","43","382","662","e2e4 c7c5 g1f3 b8c6 f1b5 g8f6 d2d3 d7d6 b5c6"
+"2","0","black","baseline","time","9","sudden","127","80","524","373","e2e4 c7c5 g1f3 b8c6 f1b5 g8f6 d2d3 d7d6 b5c6"
